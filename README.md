@@ -32,8 +32,7 @@ Bu proje aşağıdaki teknolojiler ve kütüphaneler kullanılarak geliştirilmi
 - `game.html`: Harita ve görevlerin bulunduğu ana oyun ekranı.
 - `login.js`: Kullanıcı adını alarak oyunu başlatmak için kullanılan script.
 - `game.js`: Harita üzerinde şehirleri işaretleme ve görevlerin kontrolünü sağlayan script.
-- `styles.css`: Sayfanın görsel tasarımı ve animasyonları.
-- `app.js`: Harita ve oyun işlevselliği için ana script.
+- `style.css`: Sayfanın görsel tasarımı ve animasyonları.
 
 ## Kurulum ve Çalıştırma
 1. Projeyi bilgisayarınıza klonlayın:
