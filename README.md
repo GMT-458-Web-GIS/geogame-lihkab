@@ -7,6 +7,7 @@ Bu proje, kullanıcıların harita üzerinde belirli noktaları keşfederek gör
 Bu projenin amacı, öğrencilerin HTML, CSS ve JavaScript kullanarak interaktif bir coğrafi oyun tasarlamalarıdır. Bu oyun, kullanıcılara coğrafi bileşenlerle etkileşim sağlayan bir çevrimiçi web uygulamasıdır ve kullanıcılar yüksek puan almaya çalışır.
 
 ## Gereksinimler
+- **Plaka Numarası Eşleşmesi**: Görevler, şehirlerin plaka numaraları ile eşleştirilmeli ve doğru cevap verildiğinde ilgili şehir işaretlenmelidir.
 - **Giriş Ekranı**: Kullanıcıların adını girebileceği ve oyuna başlayabileceği bir giriş ekranı olmalıdır.
 - **Harita**: Harita üzerinde belirli şehirlerin işaretlenmesi sağlanmalıdır. Kullanıcı doğru yanıt verdikçe şehirler işaretlenmelidir.
 - **Görevler**: Kullanıcıya çarpım işlemleri gibi basit görevler verilmelidir. Doğru cevap verildiğinde şehirler işaretlenmeli ve puan kazanılmalıdır.
