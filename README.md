@@ -44,11 +44,15 @@ Bu proje aşağıdaki teknolojiler ve kütüphaneler kullanılarak geliştirilmi
 - **`style.css`:** Oyun ve giriş sayfasının stilini tanımlar. Animasyonlar, renk teması ve duyarlı tasarım özellikleri bu dosyada yer alır.
 
 ## Nasıl Oynanır
-**Oyunu Başlatın:** index.html dosyasını açarak kullanıcı adı girin.
-**Görevleri Tamamlayın:** Size Türkiye'nin farklı şehirlerine dair plaka numarası soruları sorulacaktır. Yanıtınızı ilgili kutucuğa girin ve gönder butonuna tıklayın.
-**Yeni Görev Alın:** "Yeni Görev Al" butonuna tıklayarak bir sonraki şehre geçin. Her görev, farklı bir şehir hakkında olacaktır ve oyuncunun coğrafya bilgisini geliştirecektir.
-**Puanlama:** Doğru cevaplar puan kazandırırken, yanlış cevaplar puan kaybettirir. Her görevde mümkün olan en yüksek puanı almaya çalışın.
-**Zamanlayıcı:** Her görevde bir geri sayım sayacı bulunmaktadır. Bu sayaç, kullanıcının belirli bir süre içinde soruyu yanıtlamasını sağlar ve zaman yönetimini geliştirir.
+- **Oyunu Başlatın:** index.html dosyasını açarak kullanıcı adı girin.
+
+- **Görevleri Tamamlayın:** Size Türkiye'nin farklı şehirlerine dair plaka numarası soruları sorulacaktır. Yanıtınızı ilgili kutucuğa girin ve gönder butonuna tıklayın.
+
+- **Yeni Görev Alın:** "Yeni Görev Al" butonuna tıklayarak bir sonraki şehre geçin. Her görev, farklı bir şehir hakkında olacaktır ve oyuncunun coğrafya bilgisini geliştirecektir.
+
+- **Puanlama:** Doğru cevaplar puan kazandırırken, yanlış cevaplar puan kaybettirir. Her görevde mümkün olan en yüksek puanı almaya çalışın.
+
+- **Zamanlayıcı:** Her görevde bir geri sayım sayacı bulunmaktadır. Bu sayaç, kullanıcının belirli bir süre içinde soruyu yanıtlamasını sağlar ve zaman yönetimini geliştirir.
 
 ## Kurulum ve Çalıştırma
 1. Projeyi bilgisayarınıza klonlayın:
