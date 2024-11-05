@@ -51,7 +51,7 @@ To install and run the game locally, follow these steps:
 
 1. **Clone the project to your computer**:
    ```
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/GMT-458-Web-GIS/geogame-lihkab)
    ```
 2. **Navigate to the project directory**:
    ```
