@@ -61,8 +61,55 @@ To install and run the game locally, follow these steps:
 Simply open the `index.html` file in your preferred web browser to start playing the game.
 
 ## Drawings and Front-End Layout
-GeoGame is designed to provide a modern and aesthetic user interface. The various styles defined in the `style.css` file ensure that the game is optimized for both desktop and mobile devices. The main elements of the design are as follows:
+GeoGame is designed to provide a modern and aesthetic user interface. The various styles defined in the style.css file ensure that the game is optimized for both desktop and mobile devices. The main elements of the design are as follows:
 **Dark Theme and Modern Colors**: A dark color theme has been chosen to provide a user-friendly experience.
 **Animated Buttons and Transitions**: The animated feedback when clicking on buttons makes the game experience more interactive and enjoyable.
 **Responsive Design**: The game interface is adjusted to fit all device sizes. The map and mission sections provide a consistent and accessible user experience across different screen sizes.
 
+## Game Screen Illustrations
+
+Below are screenshots showcasing the key components of GeoGame's user interface and gameplay experience:
+
+**Welcome Screen:**
+![1](https://github.com/user-attachments/assets/aa5271a7-1fb6-4e15-b758-639575b67e76)
+
+Users can start the game by entering their username.
+
+The simple, user-friendly interface with a dark background and yellow accents creates a modern look.
+
+
+**Main Game Screen:**
+![2](https://github.com/user-attachments/assets/b03a7ee3-1f28-4ed8-8286-5b225f4aa54b)
+
+The main game interface features an interactive map, a task panel, and a score tracker.
+
+The task panel on the right prompts users with questions about city license plates, while the countdown timer keeps the gameplay exciting.
+
+
+**City Marking on the Map:**
+![3](https://github.com/user-attachments/assets/0f85a2cc-1861-4ae2-a987-faf8faf701cf)
+
+After each correct answer, the corresponding city is marked on the map, showing the player's progress visually.
+
+Users can click the "Yeni Görev Al" button to continue with the next city.
+
+
+## Game Design Details
+
+**Page Layout:** The layout of the web page includes key components such as the main game area, menu items, scoreboard, and timer. The interactive map is displayed prominently in the center, with the scoreboard and timer positioned at the top to ensure players can easily track their progress. The menu items and action buttons are placed intuitively to facilitate easy navigation.
+
+**Geo-Component:** The core of GeoGame revolves around a geographic component—an interactive map of Turkey. Users interact with this map to answer questions related to Turkish cities, making geography an integral part of the game experience.
+
+**Game Execution and Scoring:** Players earn points by correctly guessing the license plate numbers of cities. Each correct answer awards 10 points, while incorrect answers result in a penalty of 5 points. The game continues with new questions until all cities have been guessed or the player decides to stop.
+
+**Environment Type:** The game features a combination of both timer-based and life-based environments. Players have a set amount of time (30 seconds) to answer each question. If the player provides a wrong answer, they lose points but do not lose lives. This combination ensures a balance between urgency and perseverance.
+
+**Chosen JavaScript Library - OpenLayers:** OpenLayers is used to create an interactive map that forms the basis of the game. The key functionalities of the library used include:
+
+**Map Visualization:** Displaying the map of Turkey, which users interact with.
+
+**Point Marking:** Marking cities on the map when a correct answer is provided.
+
+**Zoom and Pan Controls:** Allowing users to navigate the map freely, enhancing the exploration aspect of the game.
+
+**Vector Layers:** Adding markers and other features dynamically to indicate player progress.
