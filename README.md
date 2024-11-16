@@ -1,4 +1,5 @@
 # Discovery Game (GeoGame)
+https://gmt-458-web-gis.github.io/geogame-lihkab/
 
 ## Project Overview
 GeoGame is an interactive web-based game developed for users who want to learn about the cities of Turkey and improve their geography knowledge. The game is built using HTML, CSS, and JavaScript, and it uses the OpenLayers library for visualizing geographical data. Players try to guess the license plate numbers of cities while exploring different regions on the map of Turkey. GeoGame provides an educational and entertaining approach, making it suitable for geography enthusiasts, students, and anyone interested in learning more about Turkey.
