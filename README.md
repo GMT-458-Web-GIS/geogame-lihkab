@@ -95,6 +95,7 @@ After each correct answer, the corresponding city is marked on the map, showing 
 Users can click the "Yeni Görev Al" button to continue with the next city.
 
 **Mission Completed Screen:**
+
 ![4](https://github.com/user-attachments/assets/96b3bb5d-da5c-4fbd-b1c9-d230fb6e3b16)
 
 This screen is displayed when the player successfully completes all the missions. The message "Congratulations, you have completed the game!" provides positive feedback and encourages the user to continue playing with the "Get New Mission" button. This design aims to motivate players through visual cues, enhancing replayability. As seen in the image, the user interface offers clear and straightforward feedback. The use of bright yellow buttons draws attention, making user interaction more prominent and accessible.
