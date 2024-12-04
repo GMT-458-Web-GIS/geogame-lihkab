@@ -123,3 +123,15 @@ This screen is displayed when the player successfully completes all the missions
 **Zoom and Pan Controls:** Allowing users to navigate the map freely, enhancing the exploration aspect of the game.
 
 **Vector Layers:** Adding markers and other features dynamically to indicate player progress.
+
+### Learnings from AI Tools (ChatGPT, Gemini, etc.)
+
+During the development of this project, I utilized AI tools like ChatGPT to assist in various stages of the coding process. The AI provided valuable guidance on specific JavaScript concepts, including the use of closures, DOM manipulation, and event handling. These insights helped me improve code quality, add interactive features, and refine game functionality.
+
+Specifically, AI-assisted learnings included:
+- Understanding how to implement closures effectively for managing game state variables like **timer and score**.
+- Developing interactive DOM elements and ensuring a seamless user experience.
+- Optimizing JavaScript code for better performance and readability.
+
+Using AI tools in this project was instrumental in overcoming coding challenges and ensuring a smooth development process.
+
