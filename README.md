@@ -78,6 +78,9 @@ Users can start the game by entering their username.
 
 The simple, user-friendly interface with a dark background and yellow accents creates a modern look.
 
+![image](https://github.com/user-attachments/assets/db32fc00-2687-4d5a-bf99-5e03d54cba23)
+
+If users attempt to proceed without entering a username, an alert message will be displayed: "Lütfen bir kullanıcı adı girin" (Please enter a username), guiding them to fill in the required field before continuing. This ensures that the user provides necessary information for a personalized game experience.
 
 **Main Game Screen:**
 ![2](https://github.com/user-attachments/assets/b03a7ee3-1f28-4ed8-8286-5b225f4aa54b)
@@ -99,9 +102,6 @@ Users can click the "Yeni Görev Al" button to continue with the next city.
 ![4](https://github.com/user-attachments/assets/96b3bb5d-da5c-4fbd-b1c9-d230fb6e3b16)
 
 This screen is displayed when the player successfully completes all the missions. The message "Congratulations, you have completed the game!" provides positive feedback and encourages the user to continue playing with the "Get New Mission" button. This design aims to motivate players through visual cues, enhancing replayability. As seen in the image, the user interface offers clear and straightforward feedback. The use of bright yellow buttons draws attention, making user interaction more prominent and accessible.
-
-
-
 
 
 ## Game Design Details
