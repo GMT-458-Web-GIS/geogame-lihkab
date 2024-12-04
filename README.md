@@ -135,3 +135,25 @@ Specifically, AI-assisted learnings included:
 
 Using AI tools in this project was instrumental in overcoming coding challenges and ensuring a smooth development process.
 
+## Event Handlers Implemented
+
+- **Submit Answer Button**: This event handler is triggered when the user submits an answer. It compares the user's input to the correct answer, provides appropriate feedback, and updates the score accordingly. This handler ensures that the player receives immediate feedback about their performance, contributing to a more engaging experience.
+- **Next Mission Button**: This event handler advances the game to the next mission, generating a new question for the user and resetting the relevant fields. By dynamically creating new questions, it keeps the game fresh and challenging for users, encouraging replayability.
+- **Timer Countdown**: The timer event handler starts a countdown when a mission is generated. It continuously updates the timer on the screen, providing visual cues to the player about the remaining time. If time runs out, it triggers an action that informs the user and moves on to the next mission. This adds urgency to the gameplay, making it more exciting.
+
+## Benefit from Closures
+
+Closures were extensively used in this project to effectively manage game state variables such as the score, question index, and timer. Specifically, closures were beneficial in handling **score updates and timing mechanisms**. By encapsulating these variables within specific functions, closures allowed for controlled access to these states, ensuring they were not unintentionally modified by other parts of the code. This approach provided several benefits:
+- **State Management**: The use of closures ensured that game variables were maintained in a consistent state throughout different user interactions, without being exposed to the global scope. This made the code less prone to bugs that might arise from unintended modifications.
+- **Memory Efficiency**: Closures helped in retaining variable states across multiple invocations without polluting the global namespace, leading to more efficient memory usage and improved code readability.
+- **Simplified Code Flow**: By leveraging closures, the game logic related to **time management, score updates**, and task generation became more modular and easier to maintain. Each closure contained logic pertinent to a specific aspect of the game, simplifying debugging and future updates.
+
+## Interaction with the DOM
+
+The project involves several types of DOM interactions to enhance the gameplay experience:
+- **Mission Updates**: The mission text is dynamically updated based on user actions to keep the player informed about the next task.
+- **Scoreboard Updates**: The score is continually updated in real-time as users provide correct or incorrect answers, keeping players engaged and competitive.
+- **Feedback Messages**: Feedback elements provide users with instant notifications about the correctness of their answers, as well as guiding them through each step of the game.
+- **Dynamic Element Manipulation**: Elements such as buttons, input fields, and map markers are dynamically updated or modified based on game state, enhancing interactivity and providing visual feedback that guides the user through their progress in the game.
+
+
