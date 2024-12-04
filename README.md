@@ -124,7 +124,7 @@ This screen is displayed when the player successfully completes all the missions
 
 **Vector Layers:** Adding markers and other features dynamically to indicate player progress.
 
-### Learnings from AI Tools (ChatGPT, Gemini, etc.)
+## Learnings from AI Tools (ChatGPT, Gemini, etc.)
 
 During the development of this project, I utilized AI tools like ChatGPT to assist in various stages of the coding process. The AI provided valuable guidance on specific JavaScript concepts, including the use of closures, DOM manipulation, and event handling. These insights helped me improve code quality, add interactive features, and refine game functionality.
 
